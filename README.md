@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0118-pascals-triangle) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
