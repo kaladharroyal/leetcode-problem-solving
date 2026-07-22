@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0152-maximum-product-subarray) |
 | [0875-koko-eating-bananas](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0875-koko-eating-bananas) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0152-maximum-product-subarray) |
 ## Database
 |  |
 | ------- |
