@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0118-pascals-triangle) |
 | [0875-koko-eating-bananas](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0875-koko-eating-bananas) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0011-container-with-most-water) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0595-big-countries) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
