@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0242-valid-anagram) |
 ## Array
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0152-maximum-product-subarray) |
 | [0875-koko-eating-bananas](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0875-koko-eating-bananas) |
