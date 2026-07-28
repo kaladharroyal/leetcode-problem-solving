@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0152-maximum-product-subarray) |
 | [0875-koko-eating-bananas](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0875-koko-eating-bananas) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
