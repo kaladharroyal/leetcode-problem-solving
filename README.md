@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0455-assign-cookies) |
 | [0875-koko-eating-bananas](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0875-koko-eating-bananas) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0011-container-with-most-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
