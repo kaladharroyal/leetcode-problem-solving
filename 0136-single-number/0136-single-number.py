@@ -1,6 +1,8 @@
+from collections import Counter
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        freq = {}
-        for ch in nums:
-            freq[ch] = freq.get(ch, 0) + 1
-        return min(freq, key=freq.get)
+
+        freq = Counter(nums)
+        return min(freq, key = freq.get)
+
+        
