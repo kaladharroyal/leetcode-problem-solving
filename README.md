@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0455-assign-cookies) |
 | [0875-koko-eating-bananas](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0875-koko-eating-bananas) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0048-rotate-image) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Matrix
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0260-single-number-iii) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
