@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0260-single-number-iii](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0455-assign-cookies) |
 | [0875-koko-eating-bananas](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0875-koko-eating-bananas) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
