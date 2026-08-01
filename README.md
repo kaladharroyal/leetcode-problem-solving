@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -68,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0067-add-binary) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Matrix
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0260-single-number-iii) |
