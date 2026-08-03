@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0242-valid-anagram) |
+| [1768-merge-strings-alternately](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0455-assign-cookies) |
+| [1768-merge-strings-alternately](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
