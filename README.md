@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0067-add-binary) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/1232-check-if-it-is-a-straight-line) |
+| [2235-add-two-integers](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/2235-add-two-integers) |
 ## Matrix
 |  |
 | ------- |
