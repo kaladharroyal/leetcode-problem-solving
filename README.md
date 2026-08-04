@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0455-assign-cookies) |
+| [3731-find-missing-elements](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0875-koko-eating-bananas) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
