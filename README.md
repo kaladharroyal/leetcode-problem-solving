@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0260-single-number-iii) |
 ## Geometry
 |  |
