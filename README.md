@@ -90,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0326-power-of-three) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0326-power-of-three) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kaladharroyal/leetcode-problem-solving/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
